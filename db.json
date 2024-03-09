@@ -1,0 +1,76 @@
+{
+    "platillos": [
+      {
+        "id": 1,
+        "nombre": "Sorrentinos de verdura",
+        "precio": 180,
+        "categoria": 1
+      },
+      {
+        "id": 2,
+        "nombre": "Asado con guarnicion de papaas",
+        "precio": 950,
+        "categoria": 1
+      },
+      {
+        "id": 3,
+        "nombre": "Tiramisu",
+        "precio": 1100,
+        "categoria": 3
+      },
+      {
+        "id": 4,
+        "nombre": "Muffins",
+        "precio": 790,
+        "categoria": 3
+      },
+      {
+        "id": 5,
+        "nombre": "Cafe Latte",
+        "precio": 245,
+        "categoria": 2
+      },
+      {
+        "id": 6,
+        "nombre": "Pizza a la piedra a elecccion",
+        "precio": 750,
+        "categoria": 1
+      },
+      {
+        "id": 7,
+        "nombre": "Milanesa con papas fritas y huevo frito",
+        "precio": 650,
+        "categoria": 1
+      },
+      {
+        "id": 8,
+        "nombre": "Jugo de Naranja",
+        "precio": 150,
+        "categoria": 2
+      },
+      {
+        "id": 9,
+        "nombre": "Licuado de Banana",
+        "precio": 450,
+        "categoria": 2
+      },
+      {
+        "id": 10,
+        "nombre": "Chocotorta",
+        "precio": 1250,
+        "categoria": 3
+      },
+      {
+        "id": 11,
+        "nombre": "Café Americano",
+        "precio": 220,
+        "categoria": 2
+      },
+      {
+        "id": 12,
+        "nombre": "Café Capuchino",
+        "precio": 270,
+        "categoria": 2
+      }
+    ]
+  }
